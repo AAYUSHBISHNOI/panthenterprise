@@ -4,7 +4,9 @@ import React from 'react'
 
 const Category = () => {
     return (
-        <div>Category</div>
+        <div className=' bg-[#F7FBFF]'>
+
+        </div>
     )
 }
 
